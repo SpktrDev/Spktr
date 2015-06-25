@@ -1,0 +1,9 @@
+Building Spktr
+
+See doc/readme-qt.rst for instructions on building Spktr QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Spktr.
+
+See doc/build-*.txt for instructions on building Spktrd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Spktr.
